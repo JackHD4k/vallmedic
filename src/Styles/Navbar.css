@@ -1,0 +1,17 @@
+.Navbar {
+  background-color: white;
+  color: black;
+}
+
+.Menu {
+  display: flex;
+  gap: 4px;
+}
+
+a {
+  color: black;
+  &:hover {
+    color: #32936F;
+    text-decoration: underline #32936F;
+  }
+}
