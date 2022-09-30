@@ -3,7 +3,7 @@ import '../Styles/Navbar.css'
 function Navbar() {
   return (
     <div className="Navbar">
-      <a href="">VALLMEDIC</a>
+      <a href="#" className='logo'>VALLMEDIC</a>
       <nav>
         <ul className='Menu'>
           <li><a href="#">Inicio</a></li>
